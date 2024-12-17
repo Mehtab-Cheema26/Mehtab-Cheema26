@@ -19,11 +19,7 @@ I enjoy diving deep into foundational concepts, especially when it comes to algo
 ## 🔧 Technologies & Tools
 
 - **Languages**: Java, Python, RISC-V Assembly, JavaScript, HTML, CSS
-- **Frameworks & Tools**: Django, PyLance, IntelliJ, PyCharm, Visual Studio Code
-- **Systems & Databases**: Git, GitHub, SQL, Ripes
-- **Concepts**: Linear Algebra, Machine Learning, OOP, Algorithms, MVC Architecture
-- **Design & UI**: JavaFX, HTML, CSS
-
+- **Frameworks & Tools**: Django, PyLance, IntelliJ, JavaFX, PyCharm, Visual Studio Code, BeautifulSoup, Pytest, JUnit Test
 ---
 
 ## 🌱 What I’m Learning
