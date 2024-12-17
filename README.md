@@ -24,10 +24,6 @@ I enjoy diving deep into foundational concepts, especially when it comes to algo
 
 ---
 
-## 🚀 Projects
-
----
-
 ## 🌱 What I’m Learning
 
 - Enhancing my understanding of **Linear Algebra** for machine learning and deep learning applications.
@@ -40,7 +36,3 @@ I enjoy diving deep into foundational concepts, especially when it comes to algo
 
 - 📧 **Email**: [mehtab.cheema@utoronto.ca](mailto:mehtabcheema26@gmail.com)
 - 🔗 **LinkedIn**: [mehtab-cheema](https://www.linkedin.com/in/mehtab-cheema)
-
----
-
-Let's connect and collaborate on projects! I’m always open to learning new things and sharing my knowledge. Happy coding! 💻
