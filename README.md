@@ -26,23 +26,6 @@ I enjoy diving deep into foundational concepts, especially when it comes to algo
 
 ## 🚀 Projects
 
-Here are some of the exciting projects I’m currently working on:
-
-### [Othello Game](https://github.com/mehtab-cheema/othello)
-A strategic board game implemented in Java, where I’ve focused on handling game state and implementing efficient algorithms for moves and game logic.
-
-### [Paint Program](https://github.com/mehtab-cheema/paint-program)
-A simple drawing program built with JavaFX, where users can select shapes to draw. I’m currently working on adding features like shape erasure and a dynamic background color.
-
-### [Finance News Website](https://github.com/mehtab-cheema/finance-news)
-A website that collects and displays finance news using Python web scraping techniques. I’ve integrated Django to serve the data locally and made the system scalable.
-
-### [Linear Congruential Generator](https://github.com/mehtab-cheema/lcg)
-An LCG-based tool that generates random coordinates based on user-specified parameters, focusing on efficient modulus operations.
-
-### [RISC-V Assembly Challenges](https://github.com/mehtab-cheema/risc-v-assembly)
-I’m building a project where I work on various challenges related to RISC-V assembly, such as optimizing memory usage and handling the stack pointer dynamically.
-
 ---
 
 ## 🌱 What I’m Learning
