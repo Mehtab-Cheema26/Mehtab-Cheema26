@@ -36,5 +36,5 @@ I enjoy diving deep into foundational concepts, especially when it comes to algo
 
 ## 📫 How to Reach Me
 
-- 📧 **Email**: [mehtab.cheema@utoronto.ca](mailto:mehtabcheema26@gmail.com)
-- 🔗 **LinkedIn**: [mehtab-cheema](https://www.linkedin.com/in/mehtab-cheema)
+- 📧 **Email**: [mehtabcheema26@gmail.com](mailto:mehtabcheema26@gmail.com)
+- 🔗 **LinkedIn**: [mehtab-cheema](https://www.linkedin.com/in/cheemamehtab)
