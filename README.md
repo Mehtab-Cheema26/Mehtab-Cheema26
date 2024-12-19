@@ -1,8 +1,8 @@
 # Mehtab Singh Cheema
 
 🎓 **Computer Science Specialist | University of Toronto**  
-💡 **Aspiring Computer Scientist**  
-📍 **Toronto, ON, Canada**
+💡 **"Job's not finished" - Kobe**  
+📍 **Ontario, Canada**
 
 ---
 
