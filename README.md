@@ -18,7 +18,7 @@ I enjoy diving deep into foundational concepts, especially when it comes to algo
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Java, Python, RISC-V Assembly, JavaScript, HTML, CSS
+- **Languages**: Java, Python, SQL, RISC-V Assembly, JavaScript, HTML, CSS
 - **Frameworks & Tools**: Django, PyLance, IntelliJ, JavaFX, PyCharm, Visual Studio Code, BeautifulSoup, Pytest, JUnit Test
 ---
 
