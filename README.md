@@ -26,7 +26,8 @@ I enjoy diving deep into foundational concepts, especially when it comes to algo
 
 - Enhancing my understanding of **Linear Algebra** for machine learning and deep learning applications.
 - Exploring **Quantitative Analysis** and how to apply it to financial modeling and prediction.
-- Building a **[finance news website](https://github.com/Mehtab-Cheema26/FinTech-News-Aggregator)** that scrapes live data and presents it in a user-friendly interface (Check it out 
+- Building a **[finance news website](https://github.com/Mehtab-Cheema26/FinTech-News-Aggregator)** that scrapes live data and presents it in a user-friendly interface (Check it out)
+- Learning **[SQL](https://github.com/Mehtab-Cheema26/Learn-SQL.git)**
 
 ---
 
