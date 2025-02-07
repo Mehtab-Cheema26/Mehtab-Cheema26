@@ -1,7 +1,6 @@
 # Mehtab Singh Cheema
 
 🎓 **Computer Science Specialist | University of Toronto**  
-💡 **"Job's not finished" - Kobe Bryant**  
 📍 **Ontario, Canada**
 
 ---
